@@ -1,0 +1,2 @@
+# akas_typescript
+Prácticas.

@@ -1,2 +1,2 @@
 # akas_typescript
-Prácticas.
+Repositorio creado solo para prácticas y ejercicios con TypeScript.
